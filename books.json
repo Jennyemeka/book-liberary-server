@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "title": "Book 1",
+        "author": "Author 1",
+        "isbn": "1234567890",
+        "status": "loaned",
+        "borrower": "Tony"
+    },
+    {
+        "id": 2,
+        "title": "Book 2",
+        "author": "Author 2",
+        "isbn": "0987654321",
+        "status": "available"
+    },
+    {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "978-0061120084",
+        "status": "available"
+    },
+    {
+        "id": 4,
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "978-0451524935",
+        "status": "loaned",
+        "borrower": "peace"
+    },
+    {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "978-0316769488",
+        "status": "available"
+    },
+    {
+        "id": 6,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "978-0141439518",
+        "status": "loaned",
+        "borrower": "Henry"
+    },
+    {
+        "id": 7,
+        "title": "Lord of the rings",
+        "isbn": "978-888383",
+        "status": "loaned",
+        "borrower": "Jane Doe",
+        "author": "Amaka Wallace"
+    },
+    {
+        "id": 10,
+        "title": "Mama Red Cap",
+        "author": "John Doe",
+        "isbn": "1234567",
+        "status": "available",
+        "borrower": "jenniferemeka"
+    }
+]
