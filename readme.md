@@ -39,6 +39,12 @@ To get started with the project, follow these steps:
 
 4. Access the server at `http://localhost:100` in your web browser.
 
+## API Endpoint
+https://my-book-library-server.onrender.com
+
+For example, to see all list of users using the /u/users routes:
+https://my-book-library-server.onrender.com/u/users
+
 ## Routes
 
 The server provides the following routes:
