@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
    node index.js
    ```
 
-4. Access the server at `http://localhost:3000` in your web browser.
+4. Access the server at `http://localhost:100` in your web browser.
 
 ## Routes
 
